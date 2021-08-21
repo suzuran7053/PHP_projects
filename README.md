@@ -2,7 +2,7 @@
 Here are some source files of my PHP projects. I have put my code files into here to show my coding skills for any potential employer.
 
 # My PHP Learning History
- ++ In 2020 ++
+ <h3>++ In 2020 ++ </h3>
  October   Started to learn PHP by self-study
  November  Completed a course 'PHP Getting Started' on Pluralsight
  December  Completed a course 'PHP Fundamentals' on Pluralsight
