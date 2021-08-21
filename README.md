@@ -1,27 +1,25 @@
-# Quick Explanations About My PHP Projects
+
 Here are some source files of my PHP projects. I have put my code files into here to show my coding skills for any potential employer.
+
+
+
+# Quick Explanations About My PHP Projects
 
  <ul>
    <li>
       <h3>1. Dialang</h3>
-      <p>
-         is my first CMS web project. To create this I used my skills mainly learned on a Udemy course named 'CMS Project Course - Master PHP.'
-       
-      </p>
+      is my first CMS web project. To create this I used my skills mainly learned on a Udemy course named 'CMS Project Course - Master PHP.'
+      
    </li>
  
    <li>
       <h3>2. Wrestling Nonsense</h3>
-      <p>
-       
-      </p>
+    
    
    </li>
    <li>
       <h3>3. Gallery</h3>
-      <p>
-       
-      </p>
+    
    
    </li>
  </ol>
