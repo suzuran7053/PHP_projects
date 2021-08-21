@@ -10,8 +10,8 @@ You can have a quick look at some <strong>demo-screenshots</strong> of each proj
  <ul>
    <li>
       <h3>1. Dialang</h3>
-      My first CMS website. To create this I used my skills mainly learned on a Udemy course named 'CMS Project Course - Master PHP.' I used procedural PHP here. <br>
-      The reason I made this is I wanted to create a website where you can learn languages whilst interacting with each other.      
+      <p>My first CMS website. To create this I used my skills mainly learned on a Udemy course named 'CMS Project Course - Master PHP.' I used procedural PHP here. <br>
+      The reason I made this is I wanted to create a website where you can learn languages whilst interacting with each other.   </p>   
    </li>
  
    <li>
