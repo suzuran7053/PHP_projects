@@ -10,18 +10,19 @@ You can have a quick look at some <strong>demo-screenshots</strong> of each proj
  <ul>
    <li>
       <h3>1. Dialang</h3>
-      My first CMS web project. To create this I used my skills mainly learned on a Udemy course named 'CMS Project Course - Master PHP.'<br>
+      My first CMS website. To create this I used my skills mainly learned on a Udemy course named 'CMS Project Course - Master PHP.' I used procedural PHP here. <br>
       The reason I made this is I wanted to create a website where you can learn languages whilst interacting with each other.      
    </li>
  
    <li>
       <h3>2. Wrestling Nonsense</h3>
-      Also a CMS web site with quite similar functionality to Dialang, but this project also includes newly added functions such as 'Create Category' and 'Search.'<br>This website is designed for simply posting reviews of any sporting events.  
+      Also a CMS web site with quite similar functionality to Dialang, but this project also includes newly added functions such as 'Create Category' and 'Search.' This website is designed for simply posting reviews of any sporting events.  
    
    </li>
  
    <li>
       <h3>3. Gallery</h3>
+      I created this whilst learning a Udemy course named 'PHP', which is focused on Object Oriented PHP. From the course, I learned the concept of OOP and how to use it in practice, writing all codes whilst to make sure I understand each lecture.
     
    
    </li>
