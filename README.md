@@ -1,4 +1,4 @@
-# QUICK EXPLANATIOINS ABOUT MY PHP PROJECTS
+# Quick Explanations About My PHP Projects
 Here are some source files of my PHP projects. I have put my code files into here to show my coding skills for any potential employer.
 
  <ul>
@@ -28,7 +28,7 @@ Here are some source files of my PHP projects. I have put my code files into her
 
 
 
-# PHP LEARNING HISTORY 
+# PHP Learning History
  <h3>++ In 2020 ++</h3>
  <ul>
    <li>October   Started to learn PHP by self-study</li>
