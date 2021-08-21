@@ -1,9 +1,9 @@
-# PHP_projects
+# QUICK EXPLANATIOINS ABOUT MY PHP PROJECTS
 Here are some source files of my PHP projects. I have put my code files into here to show my coding skills for any potential employer.
 
- <ol>
+ <ul>
    <li>
-      <h3>Dialang</h3>
+      <h3>1. Dialang</h3>
       <p>
          is my first CMS web project. To create this I used my skills mainly learned on a Udemy course named 'CMS Project Course - Master PHP.'
        
@@ -11,14 +11,14 @@ Here are some source files of my PHP projects. I have put my code files into her
    </li>
  
    <li>
-      <h3>Wrestling Nonsense</h3>
+      <h3>2. Wrestling Nonsense</h3>
       <p>
        
       </p>
    
    </li>
    <li>
-      <h3>Gallery</h3>
+      <h3>3. Gallery</h3>
       <p>
        
       </p>
@@ -28,7 +28,7 @@ Here are some source files of my PHP projects. I have put my code files into her
 
 
 
-# My PHP Learning History
+# PHP LEARNING HISTORY 
  <h3>++ In 2020 ++</h3>
  <ul>
    <li>October   Started to learn PHP by self-study</li>
