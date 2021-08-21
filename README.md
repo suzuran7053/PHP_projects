@@ -1,5 +1,6 @@
 
 Here are some source files of my PHP projects. I have put my code files into here to show my coding skills for any potential employer.
+You can see some demo-screenshots of each projects, they are in a directory named 'demo-screenshots.'
 
 
 
@@ -9,7 +10,7 @@ Here are some source files of my PHP projects. I have put my code files into her
    <li>
       <h3>1. Dialang</h3>
       is my first CMS web project. To create this I used my skills mainly learned on a Udemy course named 'CMS Project Course - Master PHP.'
-      
+      I wanted to create a website where you can learn languages whilst interacting with each other.      
    </li>
  
    <li>
