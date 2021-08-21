@@ -1,6 +1,7 @@
 
-Here are some source files of my PHP projects. I have put my code files into here to show my coding skills for any potential employer.
-You can see some demo-screenshots of each projects, they are in a directory named 'demo-screenshots.'
+Hello! Welcome to my PHP project repository.<br>
+Here are some source files of my PHP projects. I have put my code files into here to show my coding skills for any potential employer.<br>
+You can have a quick look at some demo-screenshots of each projects, they are in a directory named 'demo-screenshots.'<br>
 
 
 
