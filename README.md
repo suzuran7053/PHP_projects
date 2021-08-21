@@ -23,6 +23,7 @@ You can have a quick look at some <strong>demo-screenshots</strong> of each proj
    <li>
       <h3>3. Gallery</h3>
       I created this whilst learning a Udemy course named 'PHP', which is focused on Object Oriented PHP. From the course, I learned the concept of OOP and how to use it in practice, writing all codes whilst to make sure I understand each lecture.
+    
    </li>
  
     <li>
