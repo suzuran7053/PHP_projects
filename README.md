@@ -16,19 +16,19 @@ You can have a quick look at some <strong>demo-screenshots</strong> of each proj
  
    <li>
       <h3>2. Wrestling Nonsense</h3>
-      Also a CMS web site with quite similar functionality to Dialang, but this project also includes newly added functions such as 'Create Category' and 'Search.' This website is designed for simply posting reviews of any sporting events.  
+      <p>Also a CMS web site with quite similar functionality to Dialang, but this project also includes newly added functions such as 'Create Category' and 'Search.' This website is designed for simply posting reviews of any sporting events.  </p>  
    
    </li>
  
    <li>
       <h3>3. Gallery</h3>
-      I created this whilst learning a Udemy course named 'PHP', which is focused on Object Oriented PHP. From the course, I learned the concept of OOP and how to use it in practice, writing all codes whilst to make sure I understand each lecture.
+      <p>I created this whilst learning a Udemy course named 'PHP', which is focused on Object Oriented PHP. From the course, I learned the concept of OOP and how to use it in practice, writing all codes whilst to make sure I understand each lecture.</p>  
     
    </li>
  
     <li>
       <h3>4. Translation Works</h3>
-       As an English speaker as one's second language, I sometimes enjoy to translate from English into Japanese, or visa versa. This site is kind of a notebook for myself to review my English studying. In future years, I'd like to write many articles in various topics translated by myself in this site as a hobby.     
+       <p>As an English speaker as one's second language, I sometimes enjoy to translate from English into Japanese, or visa versa. This site is kind of a notebook for myself to review my English studying. In future years, I'd like to write many articles in various topics translated by myself in this site as a hobby.     </p>  
    </li>
  
  </ul>
