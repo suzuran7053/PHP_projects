@@ -3,9 +3,11 @@ Here are some source files of my PHP projects. I have put my code files into her
 
 # My PHP Learning History
  <h3>++ In 2020 ++ </h3>
- <p>October   Started to learn PHP by self-study</p>
- <p>November  Completed a course 'PHP Getting Started' on Pluralsight</p>
- <p>December  Completed a course 'PHP Fundamentals' on Pluralsight</p>
+ <ul>
+  <li>October   Started to learn PHP by self-study</li>
+  <li>November  Completed a course 'PHP Getting Started' on Pluralsight</li>
+ <li>December  Completed a course 'PHP Fundamentals' on Pluralsight</li>
+ </ul>
  
  <h3>++ In 2021 ++</h3>
  <p>March     Completed a course 'CMS Project Course - Master PHP' on Udemy</p>
