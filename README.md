@@ -22,11 +22,11 @@ You can have a quick look at some <strong>demo-screenshots</strong> of each proj
  
    <li>
       <h3>3. Gallery</h3>
-      <p>I created this whilst learning a Udemy course named 'PHP', which is focused on Object Oriented PHP. From the course, I learned the concept of OOP and how to use it in practice, writing all codes whilst to make sure I understand each lecture.</p>
+      <p>I created this whilst learning a Udemy course named 'PHP', which is focused on Object Oriented PHP. From the course, I learned the concept of OOP and how to use it in practice, writing all codes whilst making sure I understood each lecture.</p>
  </li>
  <li>
       <h3>4. notebook</h3>
-      <p>This project is kind of a blog for my computer studying. I created this whilst using OOP so that I could review what I learned from the OOP course. I add a new post when I learn something new. I embeded Summernote in a form here so I can freely customise the appearance of articles as I like. </p>
+      <p>This project is kind of a blog for my computer studying. I created this whilst using OOP so that I could review what I learned from the OOP course. I add a new post here when I learn something new. I embeded Summernote in a form so I can freely customise the appearance of articles as I like. </p>
  </li>
  <!-- <li>
       <h3>5. Translation Works</h3>
@@ -38,14 +38,14 @@ You can have a quick look at some <strong>demo-screenshots</strong> of each proj
 
 
 # PHP Learning History
- <h3>++ In 2020 ++</h3>
+ <h3>In 2020</h3>
  <ul>
    <li>October   : Started to learn PHP by self-study</li>
    <li>November  : Completed a course 'PHP Getting Started' on Pluralsight</li>
    <li>December  : Completed a course 'PHP Fundamentals' on Pluralsight</li>
  </ul>
  
- <h3>++ In 2021 ++</h3>
+ <h3>In 2021</h3>
  <ul>
    <li>March     : Completed a course 'CMS Project Course - Master PHP' on Udemy</li>
    <li>July      : Completed a course 'PHP: Object Oriented Programming for beginners + Project' on Udemy</li>
