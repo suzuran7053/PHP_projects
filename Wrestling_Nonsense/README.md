@@ -1,10 +1,26 @@
-<h1>Wrestling Nonsense</h1>
-<h3>The aim of this website</h3>
 
-Here are the source files of my original PHP projects called "Wrestling Nonsense".
-You can have a quick look at <a href="demo_screenphotos/">some demo-screenshots.</a>
+<div class="container mt-3">
+    <!-- Nav tabs -->
+    <ul class="nav nav-tabs">
+        <li class="nav-item">
+            <a class="nav-link active" data-toggle="tab" href="#about">About the project</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" data-toggle="tab" href="#built_with">Built with</a>
+        </li>
+    </ul>
 
-This is also a CMS web site with quite similar functionality to Dialang, but this project also includes newly added functions such as 'Create Category' and 'Search.' This website is designed for simply posting reviews of any sporting events.
-
+    <!-- Tab panes -->
+    <div class="tab-content">
+        <div id="about" class="container tab-pane active"><br>
+            <h3>About This Project</h3>
+            <p>タブ1の内容</p>
+        </div>
+        <div id="built_with" class="container tab-pane fade"><br>
+            <h3>Built With</h3>
+            <p>タブ2の内容</p>
+        </div>
+    </div>
+</div>
 
 
