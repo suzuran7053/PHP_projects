@@ -41,9 +41,8 @@
         View all posts
         <div style="margin: 10px auto;"><img src="demo_screenphotos/demo_top.jpg" style="width:200px;></div>
     </li>
-    <li>
-        View all posts in a selected category
-       <div style="margin: 10px auto;"><img src="demo_screenphotos/demo_category.jpg" style="width:200px;"></div>
+    <li>View all posts in a selected category
+         <div style="margin: 10px auto;"><img src="demo_screenphotos/demo_category.jpg" style="width:200px;"></div>
     </li>
     <li>
         Create a post
