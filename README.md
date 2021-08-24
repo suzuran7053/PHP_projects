@@ -12,13 +12,13 @@ You can have a quick look at some <strong>demo-screenshots</strong> of each proj
       <h3>1. Dialang</h3>
       <p>My first CMS website. To create this I used my skills mainly learned on a Udemy course named 'CMS Project Course - Master PHP.' I used procedural PHP here. <br>
       The reason I made this is I wanted to create a website where you can learn languages whilst interacting with each other.   </p>
-    <img src="Dialang/demo_screenshots/home_after_login.jpg" style="width: 50%;">
+      <a href=""><img src="Dialang/demo_screenshots/home_after_login.jpg" style="width: 50%;"></a>
    </li>
  
    <li>
       <h3>2. Wrestling Nonsense</h3>
       <p>Also a CMS web site with quite similar functionality to Dialang, but this project also includes newly added functions such as 'Create Category' and 'Search.' This website is designed for simply posting reviews of any sporting events.  </p>  
-     <img src="Wrestling_Nonsense/demo_screenphotos/demo_top.jpg" style="width: 50%;">
+      <a href=""><img src="Wrestling_Nonsense/demo_screenphotos/demo_top.jpg" style="width: 50%;"></a>
     
    
    </li>
@@ -29,8 +29,13 @@ You can have a quick look at some <strong>demo-screenshots</strong> of each proj
  </li>
  <li>
       <h3>4. notebook</h3>
-      <p>This project is kind of a blog for my computer studying. I created this whilst using OOP so that I could review what I learned from the OOP course. I add a new post here when I learn something new. I embeded Summernote in a form so I can freely customise the appearance of articles as I like. </p>
+      <p>This project is kind of a blog for my computer studying. I created this whilst using OOP so that I could review what I learned from the OOP course. I add a new post here when I learn something new. I embeded Summernote in a form so I can freely customise the appearance of articles as I like. </p> 
+      <a href=""><img src="notebook/demo_screenshots/admin_edit_post.jpg" style="width: 50%;"></a>
  </li>
+ 
+ 
+ 
+
  <!-- <li>
       <h3>5. Translation Works</h3>
       <p>As an English speaker as one's second language, I sometimes enjoy to translate from English into Japanese, or visa versa. This site is kind of a notebook for myself to review my English studying. In future years, I'd like to enjoy writing as a hobby in various topics.</p>
