@@ -1,5 +1,19 @@
+<h2>MENU</h2>
+<ol>
+ <a href="#about">
+  <li>About The Project</li>
+ </a>
+ <a href="#features">
+  <li>Features</li>
+ </a>
+ <a href="#built_with">
+  <li>Built With</li>
+ </a>
+</ol>
+
 <div id="about">
- <h1>About The Project 'Wrestling Nonsense'</h1>
+ <h1>About this project</h1>
+ <h2>Wrestling Nonsense</h2>
  <p>This is my original PHP projects named "Wrestling Nonsense".This is a CMS project, designed for simply posting reviews of any sporting events. You can have a quick look at <a href="demo_screenphotos/">some demo images</a> so that you can see the screenshots of the features it has.</p>
 </div>
 
