@@ -50,7 +50,7 @@
   
   <li>Category
    <ul>
-    <li>User can create, edit and delete a new category</li>
+    <li>You can create, edit and delete a new category</li>
    </ul>
   </li><br>
   
