@@ -25,7 +25,7 @@
     <br>
     
     <h3 style="margin-top: 30px;">2. Posts</h3>
-    <ul>
+<ul>
         <li>
             View all posts
             <div style="margin: 10px auto;"><img src="demo_screenphotos/demo_top.jpg" style="width:200px;"></div>
@@ -81,4 +81,4 @@
         <li>Bootstrap</li>
         <li>Procedual PHP (I had not learned Object oriented PHP at that time)</li>
     </ul>
-</div>   
+</div>
