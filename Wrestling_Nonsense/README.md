@@ -16,7 +16,7 @@
 <div id="about">
  <h1>About this project</h1>
  <h2>#Wrestling Nonsense</h2>
- <p>This is my original PHP project named "Wrestling Nonsense". <br>This is a CMS project, designed for simply posting reviews of any sporting events. <br>You can have a quick look at <a href="demo_screenphotos/">some demo images</a> where you can see the screenshots of the features it has.</p>
+ <p>This is my original PHP project named "Wrestling Nonsense". <br>This is a CMS project, designed for simply posting reviews of any sporting events. </p>
 </div>
 
 
@@ -27,8 +27,9 @@
   <li>User Authentification
    <ul>
     <li>Signing up</li>
-    <li>Logging in
-    <img src="demo_screenphotos/demo_login.jpg" style="width:200px; margin: 10px auto;"></li>
+    <li>
+       Logging in
+       <div style="margin: 10px auto;"><img src="demo_screenphotos/demo_login.jpg" style="width:200px;"></li>
     <li>Logging out</li>
    </ul>
   </li><br>
