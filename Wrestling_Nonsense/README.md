@@ -33,6 +33,7 @@
   </li><br>
   
   <li>Posts
+   <img src="demo_screenphotos/demo_create_post.jpg" style="width: 300px;">
    <ul>
     <li>Create a post</li>
     <li>Edit your post</li>
