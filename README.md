@@ -28,7 +28,7 @@ You can have a quick look at some <strong>demo-screenshots</strong> of each proj
       <p>I created this whilst learning a Udemy course named 'PHP', which is focused on Object Oriented PHP. From the course, I learned the concept of OOP and how to use it in practice, writing all codes whilst making sure I understood each lecture.</p>
  </li> -->
  <li>
-      <h3>4. notebook</h3>
+      <h3>3. notebook</h3>
       <p>This project is kind of a blog for my computer studying. I created this whilst using OOP so that I could review what I learned from the OOP course. I add a new post here when I learn something new. I embeded Summernote in a form so I can freely customise the appearance of articles as I like. </p> 
       <a href="notebook/"><img src="notebook/demo_screenshots/admin_edit_post.jpg" style="width: 50%;"></a>
  </li>
