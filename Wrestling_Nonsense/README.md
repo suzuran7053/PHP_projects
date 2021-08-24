@@ -70,6 +70,7 @@
    <ul>
     <li>You can create, edit and delete a new category</li>
     <li>The categories will be on the navigation bar</li>
+    <img src="demo_screenphotos/demo_category.jpg" style="width:200px; margin: 10px auto;">
    </ul>
   </li><br>
   
