@@ -24,7 +24,13 @@
 <div id="features">
  <h2>This project is including the following features</h2>
  <ul>
-  <li>User Authentification: signing up, logging in and logging out</li>
+  <li>User Authentification
+   <ul>
+    <li>signing up</li>
+    <li>logging in</li>
+    <li>logging out</li>
+   </ul>
+  </li>
   <li>Post an article: You can create your own post. You can also edit and delete it.</li>
   <li>Setting User Profile: You can set your profile picture, username and you can change them freely</li>
   <li>Category: User can create, edit and delete a new category</li>
