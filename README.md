@@ -11,7 +11,8 @@ You can have a quick look at some <strong>demo-screenshots</strong> of each proj
    <li>
       <h3>1. Dialang</h3>
       <p>My first CMS website. To create this I used my skills mainly learned on a Udemy course named 'CMS Project Course - Master PHP.' I used procedural PHP here. <br>
-      The reason I made this is I wanted to create a website where you can learn languages whilst interacting with each other.   </p>   
+      The reason I made this is I wanted to create a website where you can learn languages whilst interacting with each other.   </p>
+    <img src="Dialang/demo_screenshots/home_after_login.jpg" style="width: 80%;">
    </li>
  
    <li>
