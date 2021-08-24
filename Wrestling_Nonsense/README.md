@@ -37,16 +37,23 @@
    
    <ul>
     <li>
+        View all posts
+        <img src="demo_screenphotos/demo_top.jpg" style="width:200px; margin: 10px auto;">
+    </li>
+    <li>View all posts in a selected category</li>
+    
+    <li>
         Create a post
         <img src="demo_screenphotos/demo_create_post.jpg" style="width:200px; margin: 10px auto;">
     </li>
     
     <li>Edit your post</li>
     <li>Delete with confirmation</li>    
-    <li>View all posts</li>
-    <li>View all posts in a selected category</li>
-    <li>Jump to the next/previous post</li>
+    
+    <li>Jump to the next/previous post
         <img src="demo_screenphotos/demo_view_post.jpg" style="width:200px; margin: 10px auto;">
+     </li>
+    
    </ul>  
   </li><br>
   
