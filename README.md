@@ -18,6 +18,8 @@ You can have a quick look at some <strong>demo-screenshots</strong> of each proj
    <li>
       <h3>2. Wrestling Nonsense</h3>
       <p>Also a CMS web site with quite similar functionality to Dialang, but this project also includes newly added functions such as 'Create Category' and 'Search.' This website is designed for simply posting reviews of any sporting events.  </p>  
+     <img src="Wrestling_Nonsense/demo_screenphotos/demo_top.jpg" style="width: 50%;">
+    
    
    </li>
  
