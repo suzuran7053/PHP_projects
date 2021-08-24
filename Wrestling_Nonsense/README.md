@@ -24,7 +24,7 @@
 <div id="features">
  <h2>This project is including the following features</h2>
   
-   <h3>1. User Authentification</h3>
+   <h3 style="margin-top: 30px;">1. User Authentification</h3>
      <ul>
       <li>Signing up</li>
       <li>
@@ -35,7 +35,7 @@
   <br>
   
   
-   <h3>2. Posts</h3>   
+   <h3 style="margin-top: 30px;">>2. Posts</h3>   
      <ul>
       <li>
           View all posts
@@ -58,7 +58,7 @@
      </ul>
  <br>
   
-     <h3>3. Setting</h3>
+     <h3 style="margin-top: 30px;">>3. Setting</h3>
      <ul>
        <li>You can set your profile picture and username</li>
        <li>You can also edit them if you want
@@ -67,7 +67,7 @@
      </ul>
  <br>
   
-    <h3>4. Category</h3>
+    <h3 style="margin-top: 30px;">>4. Category</h3>
     <ul>
        <li>You can create, edit and delete a new category</li>
        <li>The categories will be on the navigation bar</li>
@@ -75,7 +75,7 @@
     </ul>
  <br>
   
-    <h3>5. Search</h3>
+    <h3 style="margin-top: 30px;">>5. Search</h3>
     <ul>
      <li>You can search a post by a keyword</li>
      <li>The result will include all the posts that have the keyword in their title or content.
