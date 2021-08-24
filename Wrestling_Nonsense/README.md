@@ -16,10 +16,10 @@
 <div id="about">
  <h1>About this project</h1>
  <h2>#Wrestling Nonsense</h2>
- <p>This is my original PHP projects named "Wrestling Nonsense".This is a CMS project, designed for simply posting reviews of any sporting events. You can have a quick look at <a href="demo_screenphotos/">some demo images</a> so that you can see the screenshots of the features it has.</p>
+ <p>This is my original PHP projects named "Wrestling Nonsense". <br>This is a CMS project, designed for simply posting reviews of any sporting events. <br>You can have a quick look at <a href="demo_screenphotos/">some demo images</a> so that you can see the screenshots of the features it has.</p>
 </div>
 
-<hr>
+
 
 <div id="features">
  <h2>This project is including the following features</h2>
@@ -31,7 +31,7 @@
   <li>Search: You can search a post by a keyword. The result will include allthe post that have the keyword in its title or content</li>
  </ul>
 </div>
-<hr>
+
 
 <div id="built_with"> 
  <h2>Built with</h2>
