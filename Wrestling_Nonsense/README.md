@@ -1,27 +1,19 @@
-    <h2>MENU</h2>
-    <ol>
-     <a href="#about">
-      <li>About This Project</li>
-     </a>
-     <a href="#features">
-      <li>Features</li>
-     </a>
-     <a href="#built_with">
-      <li>Built With</li>
-     </a>
-    </ol>
-    
+<h2>MENU</h2>
+    <div>
+     <a href="#about">1. About This Project</a>
+     <a href="#features">2. Features</a>
+     <a href="#built_with">3. Built With</a>
+    </div>
     <hr>
-    
-    <div id="about">
+
+<div id="about">
      <h1>About this project</h1>
      <h2>#Wrestling Nonsense</h2>
      <p>This is my original PHP project named "Wrestling Nonsense". <br>This is a CMS project, designed for simply posting reviews of any sporting events. </p>
     </div>
     
-    
-    
-    <div id="features">
+
+<div id="features">
      <h2>This project is including the following features</h2>
       
        <h3 style="margin-top: 30px;">1. User Authentification</h3>
@@ -86,9 +78,8 @@
       <br>
       
     </div>
-    
-    
-    <div id="built_with"> 
+
+<div id="built_with"> 
      <h2>Built with</h2>
      <ul>
       <li>HTML</li>
