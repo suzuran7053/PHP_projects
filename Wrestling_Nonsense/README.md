@@ -38,20 +38,22 @@
    <ul>
     <li>
         View all posts
-        <img src="demo_screenphotos/demo_top.jpg" style="width:200px; margin: 10px auto;">
+        <div style="margin: 10px auto;"><img src="demo_screenphotos/demo_top.jpg" style="width:200px;></div>
     </li>
-    <li>View all posts in a selected category</li>
-    
+    <li>
+        View all posts in a selected category
+       <div style="margin: 10px auto;"><img src="demo_screenphotos/demo_category.jpg" style="width:200px;"></div>
+    </li>
     <li>
         Create a post
-        <img src="demo_screenphotos/demo_create_post.jpg" style="width:200px; margin: 10px auto;">
+        <div style="margin: 10px auto;"><img src="demo_screenphotos/demo_create_post.jpg" style="width:200px;"></div>
     </li>
     
     <li>Edit your post</li>
     <li>Delete with confirmation</li>    
     
     <li>Jump to the next/previous post
-        <img src="demo_screenphotos/demo_view_post.jpg" style="width:200px; margin: 10px auto;">
+        <div style="margin: 10px auto;"><img src="demo_screenphotos/demo_view_post.jpg" style="width:200px;"></div>
      </li>
     
    </ul>  
@@ -61,7 +63,7 @@
    <ul>
     <li>You can set your profile picture and username</li>
     <li>You can also edit them if you want
-    <img src="demo_screenphotos/demo_setting.jpg" style="width:200px; margin: 10px auto;">
+    <div style="margin: 10px auto;"><img src="demo_screenphotos/demo_setting.jpg" style="width:200px;"></div>
     </li>
    </ul>
   </li><br>
@@ -70,7 +72,8 @@
    <ul>
     <li>You can create, edit and delete a new category</li>
     <li>The categories will be on the navigation bar</li>
-    <img src="demo_screenphotos/demo_category.jpg" style="width:200px; margin: 10px auto;">
+    <div style="margin: 10px auto;"><img src="demo_screenphotos/demo_setting_category" style="width:200px;"></div>
+    
    </ul>
   </li><br>
   
@@ -78,7 +81,7 @@
    <ul>
     <li>You can search a post by a keyword</li>
     <li>The result will include all the posts that have the keyword in their title or content.
-    <img src="demo_screenphotos/demo_searh.jpg" style="width:200px; margin: 10px auto;"></li>
+    <div style="margin: 10px auto;"><img src="demo_screenphotos/demo_searh.jpg" style="width:200px;"></div>
     </ul>
   </li><br>
   
