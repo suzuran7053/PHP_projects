@@ -30,7 +30,8 @@
     <li>logging in</li>
     <li>logging out</li>
    </ul>
-  </li>
+  </li><br>
+  
   <li>Post your own article
    <ul>
     <li>Create a post</li>
@@ -38,26 +39,27 @@
     <li>Delete with confirmation</li>    
     <li>View all posts</li>
    </ul>  
-  </li>
+  </li><br>
+  
   <li>Setting
    <ul>
     <li>You can set your profile picture and username</li>
     <li>You can also edit them if you want</li>
    </ul>
-  </li>
+  </li><br>
   
   <li>Category
    <ul>
     <li>User can create, edit and delete a new category</li>
    </ul>
-  </li>
+  </li><br>
   
   <li>Search
    <ul>
     <li>You can search a post by a keyword</li>
     <li>The result will include all the posts that have the keyword in their title or content.</li>
     </ul>
-  </li>
+  </li><br>
   
  </ol>
 </div>
