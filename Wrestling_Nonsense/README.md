@@ -26,21 +26,27 @@
  <ol>
   <li>User Authentification
    <ul>
-    <li>signing up</li>
-    <li>logging in</li>
-    <li>logging out</li>
+    <li>Signing up</li>
+    <li>Logging in
+    <img src="demo_screenphotos/demo_login.jpg" style="width:200px;"></li>
+    <li>Logging out</li>
    </ul>
   </li><br>
   
   <li>Posts
-   <img src="demo_screenphotos/demo_create_post.jpg" style="width:100px;">
+   
    <ul>
-    <li>Create a post</li>
+    <li>
+        Create a post
+        <img src="demo_screenphotos/demo_create_post.jpg" style="width:200px;">
+    </li>
+    
     <li>Edit your post</li>
     <li>Delete with confirmation</li>    
     <li>View all posts</li>
     <li>View all posts in a selected category</li>
     <li>Jump to the next/previous post</li>
+        <img src="demo_screenphotos/demo_view_post.jpg" style="width:200px;">
    </ul>  
   </li><br>
   
@@ -61,7 +67,8 @@
   <li>Search
    <ul>
     <li>You can search a post by a keyword</li>
-    <li>The result will include all the posts that have the keyword in their title or content.</li>
+    <li>The result will include all the posts that have the keyword in their title or content.
+    <img src="demo_screenphotos/demo_searh.jpg" style="width:200px;"></li>
     </ul>
   </li><br>
   
