@@ -29,7 +29,7 @@
     <li>Signing up</li>
     <li>
        Logging in
-       <div style="margin: 10px auto;"><img src="demo_screenphotos/demo_login.jpg" style="width:200px;"></li>
+       <div style="margin: 30px auto;"><img src="demo_screenphotos/demo_login.jpg" style="width:200px;"></li>
     <li>Logging out</li>
    </ul>
   </li><br>
