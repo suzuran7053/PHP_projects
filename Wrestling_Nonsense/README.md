@@ -23,7 +23,7 @@
 
 <div id="features">
  <h2>This project is including the following features</h2>
- <ul>
+ <ol>
   <li>User Authentification
    <ul>
     <li>signing up</li>
@@ -31,11 +31,35 @@
     <li>logging out</li>
    </ul>
   </li>
-  <li>Post an article: You can create your own post. You can also edit and delete it.</li>
-  <li>Setting User Profile: You can set your profile picture, username and you can change them freely</li>
-  <li>Category: User can create, edit and delete a new category</li>
-  <li>Search: You can search a post by a keyword. The result will include all the posts that have the keyword in their title or content.</li>
- </ul>
+  <li>Post your own article
+   <ul>
+    <li>Create a post</li>
+    <li>Edit your post</li>
+    <li>Delete with confirmation</li>    
+    <li>View all posts</li>
+   </ul>  
+  </li>
+  <li>Setting
+   <ul>
+    <li>You can set your profile picture and username</li>
+    <li>You can also edit them if you want</li>
+   </ul>
+  </li>
+  
+  <li>Category
+   <ul>
+    <li>User can create, edit and delete a new category</li>
+   </ul>
+  </li>
+  
+  <li>Search
+   <ul>
+    <li>You can search a post by a keyword</li>
+    <li>The result will include all the posts that have the keyword in their title or content.</li>
+    </ul>
+  </li>
+  
+ </ol>
 </div>
 
 
