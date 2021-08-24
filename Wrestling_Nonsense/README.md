@@ -32,12 +32,14 @@
    </ul>
   </li><br>
   
-  <li>Post your own article
+  <li>Posts
    <ul>
     <li>Create a post</li>
     <li>Edit your post</li>
     <li>Delete with confirmation</li>    
     <li>View all posts</li>
+    <li>View all posts in a selected category</li>
+    <li>Jump to the next/previous post</li>
    </ul>  
   </li><br>
   
@@ -51,6 +53,7 @@
   <li>Category
    <ul>
     <li>You can create, edit and delete a new category</li>
+    <li>The categories will be on the navigation bar</li>
    </ul>
   </li><br>
   
