@@ -1,6 +1,6 @@
 
-Hello! Welcome to my PHP project repository.<br>
-Here are some source files of my PHP projects. I have put my code files into here to show my coding skills for any potential employer.<br>
+Hello! Welcome to my PHP project repository. :smiley:<br>
+Here are some source files of my PHP projects. I have put my code files into here to show my coding skills for any potential employer. :rainbow:<br>
 You can also have a look at the features on <strong>README file</strong> in the directory of each project.<br>
 
 
@@ -16,19 +16,19 @@ You can also have a look at the features on <strong>README file</strong> in the 
    </li>
  
    <li>
-      <h3>2. Wrestling Nonsense</h3>
+      <h3>2. Wrestling Nonsense :facepunch:</h3>
       <p>Also a CMS web site with quite similar functionality to Dialang, but this project also includes newly added functions such as 'Create Category' and 'Search.' This website is designed for simply posting reviews of any sporting events.  </p>  
       <a href="Wrestling_Nonsense/"><img src="Wrestling_Nonsense/demo_screenphotos/demo_top.jpg" style="width: 50%;"></a>
    </li>
  
  <li>
-      <h3>3. notebook</h3>
+      <h3>3. notebook :closed_book:</h3>
       <p>This project is kind of a blog for my computer studying. I created this whilst using OOP so that I could review what I learned from the OOP course. I add a new post here when I learn something new. I embeded Summernote in a form so I can freely customise the appearance of articles as I like. </p> 
       <a href="notebook/"><img src="notebook/demo_screenshots/admin_edit_post.jpg" style="width: 50%;"></a>
  </li>
  
  <li>
-      <h3>4. Gallery</h3>
+      <h3>4. Gallery :framed_picture:</h3>
       <p>I created this whilst learning a Udemy course named 'PHP: Object Oriented Programming for beginners + Project', which is focused on Object Oriented PHP. From the course, I learned the concept of OOP and how to use it in practice, writing all codes whilst making sure I understood each lecture.</p>
       <a href="gallery/"><img src="gallery/demo_screenshots/home.jpg" style="width: 50%;"></a>
  </li>
@@ -44,7 +44,7 @@ You can also have a look at the features on <strong>README file</strong> in the 
 
 
 
-# PHP Learning History
+# PHP Learning History :woman_student:
  <h3>In 2020</h3>
  <ul>
    <li>October   : Started to learn PHP by self-study</li>
@@ -56,7 +56,7 @@ You can also have a look at the features on <strong>README file</strong> in the 
  <ul>
    <li>March     : Completed a course 'CMS Project Course - Master PHP' on Udemy</li>
    <li>July      : Completed a course 'PHP: Object Oriented Programming for beginners + Project' on Udemy</li>
-   <li><strong>I currently studying a course 'PHP with Laravel for beginners - Become a Master in Laravel' on Udemy</strong></li>
+   <li><strong>I currently studying a course 'PHP with Laravel for beginners - Become a Master in Laravel' on Udemy</strong> :woman_office_worker:</li>
  </ul>
 
 
