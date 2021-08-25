@@ -45,20 +45,18 @@ You can also have a look at the features on <strong>README file</strong> in the 
 
 
 # PHP Learning History :woman_student:
- <h3>In 2020</h3>
+
+<ul>
+   <li><strong>Currently I've been studying a course 'PHP with Laravel for beginners - Become a Master in Laravel' on Udemy</strong> :woman_office_worker::fire:</li>
+   <li>July      : Completed a course 'PHP: Object Oriented Programming for beginners + Project' on Udemy</li>
+   <li>March     : Completed a course 'CMS Project Course - Master PHP' on Udemy</li>
+</ul>
+<h3>In 2020</h3>
  <ul>
    <li>October   : Started to learn PHP by self-study</li>
    <li>November  : Completed a course 'PHP Getting Started' on Pluralsight</li>
    <li>December  : Completed a course 'PHP Fundamentals' on Pluralsight</li>
  </ul>
- 
- <h3>In 2021</h3>
- <ul>
-   <li>March     : Completed a course 'CMS Project Course - Master PHP' on Udemy</li>
-   <li>July      : Completed a course 'PHP: Object Oriented Programming for beginners + Project' on Udemy</li>
-   <li><strong>I currently studying a course 'PHP with Laravel for beginners - Become a Master in Laravel' on Udemy</strong> :woman_office_worker::fire:</li>
- </ul>
-
 
 
 
