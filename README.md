@@ -19,20 +19,19 @@ You can have a quick look at some <strong>demo-screenshots</strong> of each proj
       <h3>2. Wrestling Nonsense</h3>
       <p>Also a CMS web site with quite similar functionality to Dialang, but this project also includes newly added functions such as 'Create Category' and 'Search.' This website is designed for simply posting reviews of any sporting events.  </p>  
       <a href="Wrestling_Nonsense/"><img src="Wrestling_Nonsense/demo_screenphotos/demo_top.jpg" style="width: 50%;"></a>
-    
-   
    </li>
  
-   <!-- <li>
-      <h3>3. Gallery</h3>
-      <p>I created this whilst learning a Udemy course named 'PHP', which is focused on Object Oriented PHP. From the course, I learned the concept of OOP and how to use it in practice, writing all codes whilst making sure I understood each lecture.</p>
- </li> -->
  <li>
       <h3>3. notebook</h3>
       <p>This project is kind of a blog for my computer studying. I created this whilst using OOP so that I could review what I learned from the OOP course. I add a new post here when I learn something new. I embeded Summernote in a form so I can freely customise the appearance of articles as I like. </p> 
       <a href="notebook/"><img src="notebook/demo_screenshots/admin_edit_post.jpg" style="width: 50%;"></a>
  </li>
  
+ <li>
+      <h3>4. Gallery</h3>
+      <p>I created this whilst learning a Udemy course named 'PHP: Object Oriented Programming for beginners + Project', which is focused on Object Oriented PHP. From the course, I learned the concept of OOP and how to use it in practice, writing all codes whilst making sure I understood each lecture.</p>
+      <a href="gallery/"><img src="gallery/demo_screenshots/home.jpg" style="width: 50%;"></a>
+ </li>
  
  
 
