@@ -1,6 +1,6 @@
 
-Hello! Welcome to my PHP project repository. :smiley:<br>
-Here are some source files of my PHP projects. I have put my code files into here to show my coding skills for any potential employer. :rainbow:<br>
+Hello! :smiley:  Welcome to my PHP project repository. :rainbow::octocat:<br>
+Here are some source files of my PHP projects. I have put my code files into here to show my coding skills for any potential employer.<br>
 You can also have a look at the features on <strong>README file</strong> in the directory of each project.<br>
 
 
