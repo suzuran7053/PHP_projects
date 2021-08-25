@@ -1,5 +1,5 @@
 
-Hello! :smiley:  Welcome to my PHP project repository. :rainbow::octocat:<br>
+Hello! :white_heart:  Welcome to my PHP project repository. :rainbow::octocat:<br>
 Here are some source files of my PHP projects. I have put my code files into here to show my coding skills for any potential employer.<br>
 You can also have a look at the features on <strong>README file</strong> in the directory of each project.<br>
 
@@ -9,7 +9,7 @@ You can also have a look at the features on <strong>README file</strong> in the 
 
  <ul>
    <li>
-      <h3>1. Dialang :earth_asia::white_heart:</h3>
+      <h3>1. Dialang :earth_asia:</h3>
       <p>My first CMS website. To create this I used my skills mainly learned on a Udemy course named 'CMS Project Course - Master PHP.' I used procedural PHP here. <br>
       The reason I made this is I wanted to create a website where you can learn languages whilst interacting with each other.   </p>
       <a href="Dialang/"><img src="Dialang/demo_screenshots/home_after_login.jpg" style="width: 50%;"></a>
