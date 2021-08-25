@@ -1,7 +1,7 @@
 
 Hello! Welcome to my PHP project repository.<br>
 Here are some source files of my PHP projects. I have put my code files into here to show my coding skills for any potential employer.<br>
-You can have a quick look at some <strong>demo-screenshots</strong> of each projects, they are in a directory named 'demo-screenshots.'<br>
+You can also have a look at the features on <strong>README file</strong> in the directory of each project.<br>
 
 
 
