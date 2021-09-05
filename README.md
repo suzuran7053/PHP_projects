@@ -5,7 +5,7 @@ You can also have a look at the features on <strong>README file</strong> in the 
 
 
 
-# Quick Explanations About My PHP Projects
+# Quick Explanations About My Projects
 
  <ul>
    <li>
