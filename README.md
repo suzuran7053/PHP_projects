@@ -47,7 +47,7 @@ You can also have a look at the features on <strong>README file</strong> in the 
 # PHP Learning History :woman_student:
 
 <ul>
-   <li><strong>Lately I've been studying a course 'PHP with Laravel for beginners - Become a Master in Laravel' on Udemy</strong> :woman_office_worker::fire:</li>
+   <!-- <li><strong>Lately I've been studying a course 'PHP with Laravel for beginners - Become a Master in Laravel' on Udemy</strong> :woman_office_worker::fire:</li>-->
    <li>July      : Completed a course 'PHP: Object Oriented Programming for beginners + Project' on Udemy</li>
    <li>March     : Completed a course 'CMS Project Course - Master PHP' on Udemy</li>
 </ul>
